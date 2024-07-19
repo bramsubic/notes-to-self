@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Dependency Management
+package-lock.json
+yarn.lock
+
+# Build/compiled files
+/build/
+/dist/
+.next/
+/out/
+
+# Environment-specific files
+.env
+.env.local
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Miscellaneous
+.DS_Store
